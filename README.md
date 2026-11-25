@@ -17,7 +17,7 @@ dashboard, Assets & curtailment, BESS optimizer) and the IPP Trading Suite (Hedg
 uplift). The Workspace and the other modules are shown blurred and locked; downloads and exports are
 disabled. All figures are synthetic.
 
-Full access: [your name] · [your e-mail]
+Full access: [Gayatri Gawande] · [gayatri.gawande.jp@gmail.com]
 
 To change where "Request full access" leads, edit `TEASER_CONTACT` near the end of each HTML file.
 To change which modules are open, edit `TEASER_OPEN` in the same place.
